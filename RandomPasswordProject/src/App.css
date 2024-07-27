@@ -1,0 +1,40 @@
+.box{
+  border: 1px solid black;
+  padding: 20px;
+  width: 30%;
+  justify-content: center;
+  align-items: center;
+  background: aquamarine;
+}
+
+.textField{
+  display: flex;
+  overflow: hidden;
+  border-radius: 5px;
+  height: 35px;
+  border: 2px solid black;
+}
+
+.text{
+  outline: none;
+  width: 100%;
+}
+
+button{
+  outline: none;
+  background: blue;
+  color: beige; 
+  width: 60px;
+  border-radius: 5px;
+}
+
+ button:hover{
+  color: blue;
+  background-color: aliceblue;
+} 
+
+.specialField{
+  display: flex;
+  gap:2px;
+  padding: 10px;
+}
