@@ -1,0 +1,27 @@
+[
+  {
+    "image": "https://example.com/image1.jpg",
+    "title": "Web Development",
+    "description": "Learn how to build modern websites using HTML, CSS, and JavaScript."
+  },
+  {
+    "image": "https://example.com/image2.jpg",
+    "title": "Data Science",
+    "description": "Dive into data analysis, visualization, and machine learning techniques."
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "title": "Mobile App Development",
+    "description": "Create mobile apps for Android and iOS using Flutter or React Native."
+  },
+  {
+    "image": "https://example.com/image4.jpg",
+    "title": "Cybersecurity",
+    "description": "Understand the fundamentals of protecting systems and data from cyber threats."
+  },
+  {
+    "image": "https://example.com/image5.jpg",
+    "title": "Cloud Computing",
+    "description": "Learn about cloud services and architectures using platforms like AWS and Azure."
+  }
+]
